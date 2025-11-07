@@ -1,0 +1,1662 @@
+[
+  {
+    "null": [
+      "Name",
+      "Type1",
+      "Type2",
+      "Height",
+      "Weight",
+      "Legendary"
+    ]
+  },
+  {
+    "Table 1": "1",
+    "null": [
+      "Bulbasaur",
+      "Grass",
+      "Poison",
+      "0.7",
+      "6.9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "2",
+    "null": [
+      "Ivysaur",
+      "Grass",
+      "Poison",
+      "1",
+      "13",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "3",
+    "null": [
+      "Venusaur",
+      "Grass",
+      "Poison",
+      "2",
+      "100",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "4",
+    "null": [
+      "Charmander",
+      "Fire",
+      "",
+      "0.6",
+      "8.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "5",
+    "null": [
+      "Charmeleon",
+      "Fire",
+      "",
+      "1.1",
+      "19",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "6",
+    "null": [
+      "Charizard",
+      "Fire",
+      "Flying",
+      "1.7",
+      "90.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "7",
+    "null": [
+      "Squirtle",
+      "Water",
+      "",
+      "0.5",
+      "9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "8",
+    "null": [
+      "Wartortle",
+      "Water",
+      "",
+      "1",
+      "22.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "9",
+    "null": [
+      "Blastoise",
+      "Water",
+      "",
+      "1.6",
+      "85.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "10",
+    "null": [
+      "Caterpie",
+      "Bug",
+      "",
+      "0.3",
+      "2.9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "11",
+    "null": [
+      "Metapod",
+      "Bug",
+      "",
+      "0.7",
+      "9.9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "12",
+    "null": [
+      "Butterfree",
+      "Bug",
+      "Flying",
+      "1.1",
+      "32",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "13",
+    "null": [
+      "Weedle",
+      "Bug",
+      "Poison",
+      "0.3",
+      "3.2",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "14",
+    "null": [
+      "Kakuna",
+      "Bug",
+      "Poison",
+      "0.6",
+      "10",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "15",
+    "null": [
+      "Beedrill",
+      "Bug",
+      "Poison",
+      "1",
+      "29.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "16",
+    "null": [
+      "Pidgey",
+      "Normal",
+      "Flying",
+      "0.3",
+      "1.8",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "17",
+    "null": [
+      "Pidgeotto",
+      "Normal",
+      "Flying",
+      "1.1",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "18",
+    "null": [
+      "Pidgeot",
+      "Normal",
+      "Flying",
+      "1.5",
+      "39.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "19",
+    "null": [
+      "Rattata",
+      "Normal",
+      "",
+      "0.3",
+      "3.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "20",
+    "null": [
+      "Raticate",
+      "Normal",
+      "",
+      "0.7",
+      "18.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "21",
+    "null": [
+      "Spearow",
+      "Normal",
+      "Flying",
+      "0.3",
+      "2",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "22",
+    "null": [
+      "Fearow",
+      "Normal",
+      "Flying",
+      "1.2",
+      "38",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "23",
+    "null": [
+      "Ekans",
+      "Poison",
+      "",
+      "2",
+      "6.9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "24",
+    "null": [
+      "Arbok",
+      "Poison",
+      "",
+      "3.5",
+      "65",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "25",
+    "null": [
+      "Pikachu",
+      "Electric",
+      "",
+      "0.4",
+      "6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "26",
+    "null": [
+      "Raichu",
+      "Electric",
+      "",
+      "0.8",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "27",
+    "null": [
+      "Sandshrew",
+      "Ground",
+      "",
+      "0.6",
+      "12",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "28",
+    "null": [
+      "Sandslash",
+      "Ground",
+      "",
+      "1",
+      "29.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "29",
+    "null": [
+      "Nidoran\u2640",
+      "Poison",
+      "",
+      "0.4",
+      "7",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "30",
+    "null": [
+      "Nidorina",
+      "Poison",
+      "",
+      "0.8",
+      "20",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "31",
+    "null": [
+      "Nidoqueen",
+      "Poison",
+      "Ground",
+      "1.3",
+      "60",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "32",
+    "null": [
+      "Nidoran\u2642",
+      "Poison",
+      "",
+      "0.5",
+      "9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "33",
+    "null": [
+      "Nidorino",
+      "Poison",
+      "",
+      "0.9",
+      "19.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "34",
+    "null": [
+      "Nidoking",
+      "Poison",
+      "Ground",
+      "1.4",
+      "62",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "35",
+    "null": [
+      "Clefairy",
+      "Fairy",
+      "",
+      "0.6",
+      "7.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "36",
+    "null": [
+      "Clefable",
+      "Fairy",
+      "",
+      "1.3",
+      "40",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "37",
+    "null": [
+      "Vulpix",
+      "Fire",
+      "",
+      "0.6",
+      "9.9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "38",
+    "null": [
+      "Ninetales",
+      "Fire",
+      "",
+      "1.1",
+      "19.9",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "39",
+    "null": [
+      "Jigglypuff",
+      "Normal",
+      "Fairy",
+      "0.5",
+      "5.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "40",
+    "null": [
+      "Wigglytuff",
+      "Normal",
+      "Fairy",
+      "1",
+      "12",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "41",
+    "null": [
+      "Zubat",
+      "Poison",
+      "Flying",
+      "0.8",
+      "7.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "42",
+    "null": [
+      "Golbat",
+      "Poison",
+      "Flying",
+      "1.6",
+      "55",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "43",
+    "null": [
+      "Oddish",
+      "Grass",
+      "Poison",
+      "0.5",
+      "5.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "44",
+    "null": [
+      "Gloom",
+      "Grass",
+      "Poison",
+      "0.8",
+      "8.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "45",
+    "null": [
+      "Vileplume",
+      "Grass",
+      "Poison",
+      "1.2",
+      "18.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "46",
+    "null": [
+      "Paras",
+      "Bug",
+      "Grass",
+      "0.3",
+      "5.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "47",
+    "null": [
+      "Parasect",
+      "Bug",
+      "Grass",
+      "1",
+      "29.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "48",
+    "null": [
+      "Venonat",
+      "Bug",
+      "Poison",
+      "1",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "49",
+    "null": [
+      "Venomoth",
+      "Bug",
+      "Poison",
+      "1.5",
+      "12.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "50",
+    "null": [
+      "Diglett",
+      "Ground",
+      "",
+      "0.2",
+      "0.8",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "51",
+    "null": [
+      "Dugtrio",
+      "Ground",
+      "",
+      "0.7",
+      "33.3",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "52",
+    "null": [
+      "Meowth",
+      "Normal",
+      "",
+      "0.4",
+      "4.2",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "53",
+    "null": [
+      "Persian",
+      "Normal",
+      "",
+      "1",
+      "32",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "54",
+    "null": [
+      "Psyduck",
+      "Water",
+      "",
+      "0.8",
+      "19.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "55",
+    "null": [
+      "Golduck",
+      "Water",
+      "",
+      "1.7",
+      "76.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "56",
+    "null": [
+      "Mankey",
+      "Fighting",
+      "",
+      "0.5",
+      "28",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "57",
+    "null": [
+      "Primeape",
+      "Fighting",
+      "",
+      "1",
+      "32",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "58",
+    "null": [
+      "Growlithe",
+      "Fire",
+      "",
+      "0.7",
+      "19",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "59",
+    "null": [
+      "Arcanine",
+      "Fire",
+      "",
+      "1.9",
+      "155",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "60",
+    "null": [
+      "Poliwag",
+      "Water",
+      "",
+      "0.6",
+      "12.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "61",
+    "null": [
+      "Poliwhirl",
+      "Water",
+      "",
+      "1",
+      "20",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "62",
+    "null": [
+      "Poliwrath",
+      "Water",
+      "Fighting",
+      "1.3",
+      "54",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "63",
+    "null": [
+      "Abra",
+      "Psychic",
+      "",
+      "0.9",
+      "19.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "64",
+    "null": [
+      "Kadabra",
+      "Psychic",
+      "",
+      "1.3",
+      "56.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "65",
+    "null": [
+      "Alakazam",
+      "Psychic",
+      "",
+      "1.5",
+      "48",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "66",
+    "null": [
+      "Machop",
+      "Fighting",
+      "",
+      "0.8",
+      "19.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "67",
+    "null": [
+      "Machoke",
+      "Fighting",
+      "",
+      "1.5",
+      "70.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "68",
+    "null": [
+      "Machamp",
+      "Fighting",
+      "",
+      "1.6",
+      "130",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "69",
+    "null": [
+      "Bellsprout",
+      "Grass",
+      "Poison",
+      "0.7",
+      "4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "70",
+    "null": [
+      "Weepinbell",
+      "Grass",
+      "Poison",
+      "1",
+      "6.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "71",
+    "null": [
+      "Victreebel",
+      "Grass",
+      "Poison",
+      "1.7",
+      "15.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "72",
+    "null": [
+      "Tentacool",
+      "Water",
+      "Poison",
+      "0.9",
+      "45.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "73",
+    "null": [
+      "Tentacruel",
+      "Water",
+      "Poison",
+      "1.6",
+      "55",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "74",
+    "null": [
+      "Geodude",
+      "Rock",
+      "Ground",
+      "0.4",
+      "20",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "75",
+    "null": [
+      "Graveler",
+      "Rock",
+      "Ground",
+      "1",
+      "105",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "76",
+    "null": [
+      "Golem",
+      "Rock",
+      "Ground",
+      "1.4",
+      "300",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "77",
+    "null": [
+      "Ponyta",
+      "Fire",
+      "",
+      "1",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "78",
+    "null": [
+      "Rapidash",
+      "Fire",
+      "",
+      "1.7",
+      "95",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "79",
+    "null": [
+      "Slowpoke",
+      "Water",
+      "Psychic",
+      "1.2",
+      "36",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "80",
+    "null": [
+      "Slowbro",
+      "Water",
+      "Psychic",
+      "1.6",
+      "78.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "81",
+    "null": [
+      "Magnemite",
+      "Electric",
+      "Steel",
+      "0.3",
+      "6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "82",
+    "null": [
+      "Magneton",
+      "Electric",
+      "Steel",
+      "1",
+      "60",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "83",
+    "null": [
+      "Farfetch'd",
+      "Normal",
+      "Flying",
+      "0.8",
+      "15",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "84",
+    "null": [
+      "Doduo",
+      "Normal",
+      "Flying",
+      "1.4",
+      "39.2",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "85",
+    "null": [
+      "Dodrio",
+      "Normal",
+      "Flying",
+      "1.8",
+      "85.2",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "86",
+    "null": [
+      "Seel",
+      "Water",
+      "",
+      "1.1",
+      "90",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "87",
+    "null": [
+      "Dewgong",
+      "Water",
+      "Ice",
+      "1.7",
+      "120",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "88",
+    "null": [
+      "Grimer",
+      "Poison",
+      "",
+      "0.9",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "89",
+    "null": [
+      "Muk",
+      "Poison",
+      "",
+      "1.2",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "90",
+    "null": [
+      "Shellder",
+      "Water",
+      "",
+      "0.3",
+      "4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "91",
+    "null": [
+      "Cloyster",
+      "Water",
+      "Ice",
+      "1.5",
+      "132.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "92",
+    "null": [
+      "Gastly",
+      "Ghost",
+      "Poison",
+      "1.3",
+      "0.1",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "93",
+    "null": [
+      "Haunter",
+      "Ghost",
+      "Poison",
+      "1.6",
+      "0.1",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "94",
+    "null": [
+      "Gengar",
+      "Ghost",
+      "Poison",
+      "1.5",
+      "40.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "95",
+    "null": [
+      "Onix",
+      "Rock",
+      "Ground",
+      "8.8",
+      "210",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "96",
+    "null": [
+      "Drowzee",
+      "Psychic",
+      "",
+      "1",
+      "32.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "97",
+    "null": [
+      "Hypno",
+      "Psychic",
+      "",
+      "1.6",
+      "75.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "98",
+    "null": [
+      "Krabby",
+      "Water",
+      "",
+      "0.4",
+      "6.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "99",
+    "null": [
+      "Kingler",
+      "Water",
+      "",
+      "1.3",
+      "60",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "100",
+    "null": [
+      "Voltorb",
+      "Electric",
+      "",
+      "0.5",
+      "10.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "101",
+    "null": [
+      "Electrode",
+      "Electric",
+      "",
+      "1.2",
+      "66.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "102",
+    "null": [
+      "Exeggcute",
+      "Grass",
+      "Psychic",
+      "0.4",
+      "2.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "103",
+    "null": [
+      "Exeggutor",
+      "Grass",
+      "Psychic",
+      "2",
+      "120",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "104",
+    "null": [
+      "Cubone",
+      "Ground",
+      "",
+      "0.4",
+      "6.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "105",
+    "null": [
+      "Marowak",
+      "Ground",
+      "",
+      "1",
+      "45",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "106",
+    "null": [
+      "Hitmonlee",
+      "Fighting",
+      "",
+      "1.5",
+      "49.8",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "107",
+    "null": [
+      "Hitmonchan",
+      "Fighting",
+      "",
+      "1.4",
+      "50.2",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "108",
+    "null": [
+      "Lickitung",
+      "Normal",
+      "",
+      "1.2",
+      "65.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "109",
+    "null": [
+      "Koffing",
+      "Poison",
+      "",
+      "0.6",
+      "1",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "110",
+    "null": [
+      "Weezing",
+      "Poison",
+      "",
+      "1.2",
+      "9.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "111",
+    "null": [
+      "Rhyhorn",
+      "Ground",
+      "Rock",
+      "1",
+      "115",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "112",
+    "null": [
+      "Rhydon",
+      "Ground",
+      "Rock",
+      "1.9",
+      "120",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "113",
+    "null": [
+      "Chansey",
+      "Normal",
+      "",
+      "1.1",
+      "34.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "114",
+    "null": [
+      "Tangela",
+      "Grass",
+      "",
+      "1",
+      "35",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "115",
+    "null": [
+      "Kangaskhan",
+      "Normal",
+      "",
+      "2.2",
+      "80",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "116",
+    "null": [
+      "Horsea",
+      "Water",
+      "",
+      "0.4",
+      "8",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "117",
+    "null": [
+      "Seadra",
+      "Water",
+      "",
+      "1.2",
+      "25",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "118",
+    "null": [
+      "Goldeen",
+      "Water",
+      "",
+      "0.6",
+      "15",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "119",
+    "null": [
+      "Seaking",
+      "Water",
+      "",
+      "1.3",
+      "39",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "120",
+    "null": [
+      "Staryu",
+      "Water",
+      "",
+      "0.8",
+      "34.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "121",
+    "null": [
+      "Starmie",
+      "Water",
+      "Psychic",
+      "1.1",
+      "80",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "122",
+    "null": [
+      "Mr. Mime",
+      "Psychic",
+      "Fairy",
+      "1.3",
+      "54.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "123",
+    "null": [
+      "Scyther",
+      "Bug",
+      "Flying",
+      "1.5",
+      "56",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "124",
+    "null": [
+      "Jynx",
+      "Ice",
+      "Psychic",
+      "1.4",
+      "40.6",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "125",
+    "null": [
+      "Electabuzz",
+      "Electric",
+      "",
+      "1.1",
+      "30",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "126",
+    "null": [
+      "Magmar",
+      "Fire",
+      "",
+      "1.3",
+      "44.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "127",
+    "null": [
+      "Pinsir",
+      "Bug",
+      "",
+      "1.5",
+      "55",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "128",
+    "null": [
+      "Tauros",
+      "Normal",
+      "",
+      "1.4",
+      "88.4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "129",
+    "null": [
+      "Magikarp",
+      "Water",
+      "",
+      "0.9",
+      "10",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "130",
+    "null": [
+      "Gyarados",
+      "Water",
+      "Flying",
+      "6.5",
+      "235",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "131",
+    "null": [
+      "Lapras",
+      "Water",
+      "Ice",
+      "2.5",
+      "220",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "132",
+    "null": [
+      "Ditto",
+      "Normal",
+      "",
+      "0.3",
+      "4",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "133",
+    "null": [
+      "Eevee",
+      "Normal",
+      "",
+      "0.3",
+      "6.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "134",
+    "null": [
+      "Vaporeon",
+      "Water",
+      "",
+      "1",
+      "29",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "135",
+    "null": [
+      "Jolteon",
+      "Electric",
+      "",
+      "0.8",
+      "24.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "136",
+    "null": [
+      "Flareon",
+      "Fire",
+      "",
+      "0.9",
+      "25",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "137",
+    "null": [
+      "Porygon",
+      "Normal",
+      "",
+      "0.8",
+      "36.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "138",
+    "null": [
+      "Omanyte",
+      "Rock",
+      "Water",
+      "0.4",
+      "7.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "139",
+    "null": [
+      "Omastar",
+      "Rock",
+      "Water",
+      "1",
+      "35",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "140",
+    "null": [
+      "Kabuto",
+      "Rock",
+      "Water",
+      "0.5",
+      "11.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "141",
+    "null": [
+      "Kabutops",
+      "Rock",
+      "Water",
+      "1.3",
+      "40.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "142",
+    "null": [
+      "Aerodactyl",
+      "Rock",
+      "Flying",
+      "1.8",
+      "59",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "143",
+    "null": [
+      "Snorlax",
+      "Normal",
+      "",
+      "2.1",
+      "460",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "144",
+    "null": [
+      "Articuno",
+      "Ice",
+      "Flying",
+      "1.7",
+      "55.4",
+      "1"
+    ]
+  },
+  {
+    "Table 1": "145",
+    "null": [
+      "Zapdos",
+      "Electric",
+      "Flying",
+      "1.6",
+      "52.6",
+      "1"
+    ]
+  },
+  {
+    "Table 1": "146",
+    "null": [
+      "Moltres",
+      "Fire",
+      "Flying",
+      "2",
+      "60",
+      "1"
+    ]
+  },
+  {
+    "Table 1": "147",
+    "null": [
+      "Dratini",
+      "Dragon",
+      "",
+      "1.8",
+      "3.3",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "148",
+    "null": [
+      "Dragonair",
+      "Dragon",
+      "",
+      "4",
+      "16.5",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "149",
+    "null": [
+      "Dragonite",
+      "Dragon",
+      "Flying",
+      "2.2",
+      "210",
+      "0"
+    ]
+  },
+  {
+    "Table 1": "150",
+    "null": [
+      "Mewtwo",
+      "Psychic",
+      "",
+      "2",
+      "122",
+      "1"
+    ]
+  }
+]
